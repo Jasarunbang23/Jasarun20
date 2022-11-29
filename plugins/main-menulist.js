@@ -483,12 +483,12 @@ ptt: false, seconds: 0,contextInfo: {
     description: sgc,
     title: "Kᴛɪᴋ .sᴏᴜɴᴅᴍᴇɴᴜ ᴜɴᴛᴋ ʏɢ ʟᴀɪɴ",
     body: wm,
-    thumbnail: await (await fetch('https://telegra.ph/file/8e6ec74578b587a4efe55.jpg')).buffer(),
+    thumbnail: await (await fetch('https://telegra.ph/file/2a6539175e20212c9954f.jpg')).buffer(),
     sourceUrl: sgc
  	  /*   sourceUrl: sig,
            title: '◄⟬ ●━━━ ⧏ ⧎ ⧐ ━━━● ⟭►',  
             body: 'Now Playing...', 
-           thumbnail: await (await fetch('https://telegra.ph/file/8e6ec74578b587a4efe55.jpg')).buffer()*/
+           thumbnail: await (await fetch('https://telegra.ph/file/2a6539175e20212c9954f.jpg')).buffer()*/
 }
      }
     })
