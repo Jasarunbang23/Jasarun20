@@ -55,11 +55,11 @@ global.nomorwa = '0'
 
 global.readMore = readMore
 global.author = 'Created By Fazryy Botz'
-global.namebot = 'Botz'
-global.wm = '© Arif'
+global.namebot = 'Fazryy Botz'
+global.wm = '© Fazryy Botz'
 global.media = 'https://telegra.ph/file/2a6539175e20212c9954f.jpg'
 global.watermark = wm
-global.wm2 = 'Itsuki - Nakano '
+global.wm2 = 'Fazrry Botz'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
