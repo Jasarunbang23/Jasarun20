@@ -64,8 +64,8 @@ global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuw
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `Fazrry`
-global.stickpack = 'Made By'
-global.stickauth = `Fazrry`
+global.stickpack = '® 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝙁𝙖𝙯𝙧𝙮 𝘽𝙤𝙩 |'
+global.stickauth = `Open sewabot ketik .owner`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
